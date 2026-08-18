@@ -1,2 +1,1 @@
-hi hello github
-hello from main and conflict branch
+hello from main branch
